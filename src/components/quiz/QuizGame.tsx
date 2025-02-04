@@ -146,7 +146,6 @@ console.log('Participant count:', data.count);
       }
     });
 
-
     
 
     // When final leaderboard is received, update state immediately.
